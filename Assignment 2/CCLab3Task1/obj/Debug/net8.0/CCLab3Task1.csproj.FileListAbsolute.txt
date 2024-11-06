@@ -1,0 +1,14 @@
+C:\Users\PMYLS\source\repos\CCLab3Task1\bin\Debug\net8.0\CCLab3Task1.exe
+C:\Users\PMYLS\source\repos\CCLab3Task1\bin\Debug\net8.0\CCLab3Task1.deps.json
+C:\Users\PMYLS\source\repos\CCLab3Task1\bin\Debug\net8.0\CCLab3Task1.runtimeconfig.json
+C:\Users\PMYLS\source\repos\CCLab3Task1\bin\Debug\net8.0\CCLab3Task1.dll
+C:\Users\PMYLS\source\repos\CCLab3Task1\bin\Debug\net8.0\CCLab3Task1.pdb
+C:\Users\PMYLS\source\repos\CCLab3Task1\obj\Debug\net8.0\CCLab3Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMYLS\source\repos\CCLab3Task1\obj\Debug\net8.0\CCLab3Task1.AssemblyInfoInputs.cache
+C:\Users\PMYLS\source\repos\CCLab3Task1\obj\Debug\net8.0\CCLab3Task1.AssemblyInfo.cs
+C:\Users\PMYLS\source\repos\CCLab3Task1\obj\Debug\net8.0\CCLab3Task1.csproj.CoreCompileInputs.cache
+C:\Users\PMYLS\source\repos\CCLab3Task1\obj\Debug\net8.0\CCLab3Task1.dll
+C:\Users\PMYLS\source\repos\CCLab3Task1\obj\Debug\net8.0\refint\CCLab3Task1.dll
+C:\Users\PMYLS\source\repos\CCLab3Task1\obj\Debug\net8.0\CCLab3Task1.pdb
+C:\Users\PMYLS\source\repos\CCLab3Task1\obj\Debug\net8.0\CCLab3Task1.genruntimeconfig.cache
+C:\Users\PMYLS\source\repos\CCLab3Task1\obj\Debug\net8.0\ref\CCLab3Task1.dll
